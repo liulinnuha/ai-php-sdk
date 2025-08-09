@@ -53,7 +53,7 @@ A PHP-agnostic SDK for seamless integration with various AI providers including 
 ## 📦 Installation
 
 ```bash
-composer require vendorname/ai-php-sdk
+composer require liulinnuha/ai-php-sdk
 ```
 
 ## ⚙️ Configuration
