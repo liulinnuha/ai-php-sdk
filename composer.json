@@ -1,6 +1,21 @@
 {
     "name": "liulinnuha/ai-php-sdk",
     "description": "Universal AI SDK for PHP multiple providers like OpenAI, DeepSeek, Gemini, etc.",
+    "keywords": [
+        "ai",
+        "sdk",
+        "php",
+        "openai",
+        "deepseek",
+        "gemini",
+        "chatgpt",
+        "embedding",
+        "ai php sdk",
+        "ai php sdk openai",
+        "ai php sdk deepseek",
+        "ai php sdk gemini",
+        "ai php sdk chatgpt"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -26,15 +41,5 @@
     "prefer-stable": true,
     "scripts": {
         "test": "phpunit"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "AiPhpSdk\\Laravel\\AiPhpSdkServiceProvider"
-            ],
-            "aliases": {
-                "AiSdk": "AiPhpSdk\\Laravel\\AiPhpSdk"
-            }
-        }
     }
 }
