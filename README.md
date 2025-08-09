@@ -2,7 +2,7 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D7.4-blue.svg)](https://www.php.net/)
 [![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8-blue.svg)](https://www.php.net/)
-[![Latest Version](https://img.shields.io/packagist/v/liulinnuha/ai-php-sdk.svg)](https://packagist.org/packages/vendorname/ai-php-sdk)
+[![Latest Version](https://img.shields.io/packagist/v/liulinnuha/ai-php-sdk.svg)](https://packagist.org/packages/liulinnuha/ai-php-sdk)
 [![License](https://img.shields.io/packagist/l/liulinnuha/ai-php-sdk.svg)](LICENSE.md)
 
 A PHP-agnostic SDK for seamless integration with various AI providers including DeepSeek, OpenAI, Gemini, and more. Supporting chat, embedding, moderation features, and provider-specific endpoints.
